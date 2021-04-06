@@ -1,5 +1,6 @@
 # Algorithms  - Maze Project to find the Shortest Path
-![alt text](https://npu85.npu.edu/~henry/npu/classes/algorithm/graph_alg/slide/maze_5.jpg)
+![maze_5](https://user-images.githubusercontent.com/81066837/113680259-80223e80-9675-11eb-920f-2048bb0645d0.jpg)
+
 
 ### Solve the Maze using Below Algorithms
 Dijkstra,Bellman Ford's,Prim's & Kruskal Algorithm to find
